@@ -1,0 +1,2 @@
+# generator-smartcontract
+smart contract
